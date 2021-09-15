@@ -1,0 +1,7 @@
+{
+  "codon_table.json": "resource\\json\\codon_table.json",
+  "snct_codon_table.json": "resource\\json\\snct_codon_table.json",
+  "amino_acid_acronyms_to_fullname.json": "resource\\json\\amino_acid_acronyms_to_fullname.json",
+  "ui_dir": "resource\\ui\\mainwindow.ui",
+  "icon_dir": "resource\\ui\\image\\icon.png"
+}

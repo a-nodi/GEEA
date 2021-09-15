@@ -1,0 +1,22 @@
+{
+  "F": "Phenyl-alanine",
+  "L": "Leucine",
+  "I": "Isoleucine",
+  "M": "Methionine",
+  "V": "Valine",
+  "S": "Serine",
+  "P": "Proline",
+  "T": "Threonine",
+  "A": "Alanine",
+  "Y": "Tyrosine",
+  "H": "Histidine",
+  "Q": "Glutamine",
+  "N": "Asparagine",
+  "K": "Lysine",
+  "D": "Aspartic acid",
+  "E": "Glutamic acid",
+  "C": "Cysteine",
+  "W": "Tryptophan",
+  "R": "Arginine",
+  "G": "Glycine"
+}
